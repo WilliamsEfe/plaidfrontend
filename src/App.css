@@ -1,0 +1,24 @@
+.App {
+  display: flex;
+  flex-direction: row;
+}
+.Main {
+  flex: 1;
+  margin-left: 20%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+.test {
+  border: none;
+}
+.ExploreHeading {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  text-align: start;
+  width: 100%;
+  margin-bottom: 20px;
+}
